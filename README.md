@@ -1,4 +1,4 @@
-<img width="1072" height="232" alt="image" src="https://github.com/user-attachments/assets/3f7a82fc-3fe1-416c-871c-37094ba75d8c" /><h1 align="center">
+<h1>
   <a href="https://github.com/SparkChase">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=console.log(%22Hello%2C+World!%22);%E2%9C%A8+SparkChase+%E7%A5%9D%E6%82%A8%E4%BB%8A%E5%A4%A9%E6%84%89%E5%BF%AB!+%E2%9C%A8" alt="Typing SVG" />
   </a>
