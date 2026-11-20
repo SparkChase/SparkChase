@@ -1,18 +1,12 @@
-<h1>
-  <a href="https://github.com/SparkChase">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=console.log(%22Hello%2C+World!%22);%E2%9C%A8+SparkChase+%E7%A5%9D%E6%82%A8%E4%BB%8A%E5%A4%A9%E6%84%89%E5%BF%AB!+%E2%9C%A8" alt="Typing SVG" />
-  </a>
-</h1>
+# Hi, I'm SparkChase.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend_Developer-欢迎来到我的主页-00BFFF?style=flat-square&logo=github">
-</p>
+> I believe in letting curiosity lead.  
+> I believe we can always grow and change.
 
----
+I build small tools for everyday use and explore how AI agents work under the hood.
 
-### 👨‍💻 关于我 (About Me)
-*   🔭 **目前专注于**：探索前沿技术与构建有趣的开源工具
-*   🌱 **持续精进**：优雅的架构设计、代码重构与性能优化
-*   💬 **乐于探讨**：技术创新、最佳实践或是不错的开发灵感
-*   📫 **交流方式**：欢迎在我的 Repository 下提交 Issue 交流（Let code do the talking）
-*   ⚡ **个人准则**：保持专注，保持好奇。
+## Selected projects
+
+- [**Today Paper**](https://github.com/SparkChase/today-paper) — A handwritten-style notepad in the browser sidebar for quick notes, images, and to-dos.
+- [**YJY Agent Runtime**](https://github.com/SparkChase/yjy-agent-runtime) — A minimal agent runtime built from scratch to explore tool calls, sessions, and execution traces.
+- [**HTML Distill**](https://github.com/SparkChase/html-distill) — A browser tool that trims HTML for language models while preserving selectors and XPath in its default mode.
